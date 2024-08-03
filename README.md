@@ -82,7 +82,7 @@ Contributions are welcome! If you have any improvements, suggestions, or bug fix
 4. Push to the branch (git push origin feature-branch).
 5. Create a new Pull Request.
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - The dataset used in this project is provided by the National Institute of Diabetes and Digestive and Kidney Diseases.
